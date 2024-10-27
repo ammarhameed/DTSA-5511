@@ -1,4 +1,4 @@
-# DTSA-5511 Final Project
+# DTSA-5511 - Final Project
 
 # Introduction
 The Fruits-360 dataset is a large collection of images of multiple fruits, vegetables and nuts. With over 94,000 images, this dataset has been designed to help researchers and developers in fields like computer vision and machine learning.
